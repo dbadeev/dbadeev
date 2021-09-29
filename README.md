@@ -1,6 +1,26 @@
 ### Hi there 👋
-# Skills 🛠️
+### Skills 🛠️
 Languages: C, Python
+DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
+Big Data:  Hadoop
+DevOps:    Git, Docker
+
+### Education 🎓
+
+### Projects 🐾
+
+### Certifications 📜
+DS/ML/DL
+Introduction to Machine Learning @ Coursera
+Supervised Learning @ Coursera
+Introduction to Deep Learning (with honors) @ Coursera
+Bayesian Methods for Machine Learning (with honors) @ Coursera
+Practical Reinforcement Learning (with honors) @ Coursera
+DevOps
+Introduction to Linux @ Stepik
+Version Control with Git @ Coursera
+Hadoop. System for processing large amounts of data @ Stepik
+
 <!--
 **dbadeev/dbadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
