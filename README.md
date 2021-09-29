@@ -6,10 +6,14 @@ Big Data:  Hadoop
 DevOps:    Git, Docker
 <a href="http:/google.com" data-href2="https://translate.google.com/">Click</a>
 
-<ul class="yourlinks">
-    <li><a href="http://www.google.com/"></li>
-    <li><a href="http://www.yahoo.com/"></li>
+<ul class="links">
+<li><a href="http://www.google.com/"></a></li>
+<li><a href="http://www.yahoo.com/"></a></li>
 </ul>
+
+<a id="open-all" href="#">OPEN ALL</a>
+
+
 ### Education 🎓
 
 ### Projects 🐾
