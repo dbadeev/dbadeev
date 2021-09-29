@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Skills 🛠️
-Languages: C, Python
+Languages: [C](https://github.com/dbadeev/LIBFT-project), Python
 DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 Big Data:  Hadoop
 DevOps:    Git, Docker
