@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Skills 🛠️
-Languages: [C](https://github.com/dbadeev/LIBFT-project), Python
+Languages: [C](https://github.com/dbadeev/LIBFT-project), Python \n
 DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 Big Data:  Hadoop
-DevOps:    Git, Docker
+DevOps:    [Git](https://coursera.org/share/d04b4e68d7c41a734b6e6dbc9d1087a1), Docker
 <a href="http:/google.com" data-href2="https://translate.google.com/">Click</a>
 
 <a href="http://google.com" onclick="window.open('http://yahoo.com','','width=700,height=700'); window.open('http://yandex.ru','','width=700,height=500'); ...// add more">Click Here</a>
