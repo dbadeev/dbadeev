@@ -7,6 +7,7 @@ DevOps:    Git, Docker
 <a href="http:/google.com" data-href2="https://translate.google.com/">Click</a>
 
 <a href="http://google.com" onclick="window.open('http://yahoo.com','','width=700,height=700'); window.open('http://yandex.ru','','width=700,height=500'); ...// add more">Click Here</a>
+<a href="http://google.com" target="_blank" onclick="location.href='http://yahoo.com'">Ссылка</a>
 
 
 ### Education 🎓
