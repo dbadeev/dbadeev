@@ -10,6 +10,9 @@
 [test](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
 
 ### Education 🎓
+- **Mathematician, Specialist,** Faculty of Mechanics and Mathematics, Lomonosov Moscow State University ([1980](https://user-images.githubusercontent.com/50623941/135349471-21a9c286-aa5c-4eae-bf2c-903ea467eafb.png)-[1985](https://user-images.githubusercontent.com/50623941/135349471-21a9c286-aa5c-4eae-bf2c-903ea467eafb.png))
+- **Student,** 21 school (École 42), SBER (2019-present)
+
 
 ### Projects 🐾
 
