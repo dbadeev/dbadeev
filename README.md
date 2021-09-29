@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Skills 🛠️
-Languages: [C](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), Python
+Languages: [C](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Python](https://stepik.org/cert/309497
+)
 
 DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 Big Data:  Hadoop
