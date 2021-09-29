@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Skills 🛠️
-Languages: [C](https://github.com/dbadeev/LIBFT-project), Python \n
+Languages: [C](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), Python
+
 DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 Big Data:  Hadoop
 DevOps:    [Git](https://coursera.org/share/d04b4e68d7c41a734b6e6dbc9d1087a1), Docker
