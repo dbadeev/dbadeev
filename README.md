@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Skills 🛠️
-- **Languages:** [C](), [Python](https://stepik.org/cert/309497)
+- **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://stepik.org/cert/309497)
 - **DS/ML/DL:**  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 - **Big Data:**  [Hadoop](https://stepik.org/cert/901016)
 - **DevOps:**    [Git](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Docker](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
