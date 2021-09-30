@@ -2,7 +2,7 @@
 ### Skills 🛠️
 - **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://stepik.org/cert/309497)
 - **DS:**   NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
-- **Big Data:**  [Hadoop](https://stepik.org/cert/901016)
+- **Big Data:**  [Hadoop](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png)
 - **DevOps:**    [Git](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Docker](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
 
 <a href="http://google.com" onclick="window.open('http://yahoo.com','','width=700,height=700'); window.open('http://yandex.ru','','width=700,height=500'); ...// add more">Click Here</a>
@@ -30,7 +30,7 @@ Bayesian Methods for Machine Learning (with honors) @ Coursera
 Practical Reinforcement Learning (with honors) @ Coursera
 DevOps
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/901016) @ Stepik
+- [Hadoop. System for processing large amounts of data](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png) @ Stepik
 
 <!--
 **dbadeev/dbadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
