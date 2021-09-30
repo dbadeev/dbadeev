@@ -2,7 +2,7 @@
 
 
 ### Skills 🛠️
-- **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://stepik.org/cert/309497)
+- **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)
 - **DS:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 - **Big Data:**  &nbsp;[Hadoop](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png)
 - **DevOps:**    [Git](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Docker](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
