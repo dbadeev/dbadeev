@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Skills 🛠️
 - **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://stepik.org/cert/309497)
-- **DS/ML/DL:**   NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
+- **DS:**   NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
 - **Big Data:**  [Hadoop](https://stepik.org/cert/901016)
 - **DevOps:**    [Git](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Docker](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
 
@@ -22,16 +22,15 @@
 - [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
 
 ### Certifications 📜
-DS/ML/DL
-Introduction to Machine Learning @ Coursera
+#### DS
+- [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/VCWCANNSDVVJ) @ Coursera
 Supervised Learning @ Coursera
 Introduction to Deep Learning (with honors) @ Coursera
 Bayesian Methods for Machine Learning (with honors) @ Coursera
 Practical Reinforcement Learning (with honors) @ Coursera
 DevOps
-Introduction to Linux @ Stepik
-Version Control with Git @ Coursera
-Hadoop. System for processing large amounts of data @ Stepik
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/901016) @ Stepik
 
 <!--
 **dbadeev/dbadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
