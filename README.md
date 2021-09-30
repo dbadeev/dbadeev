@@ -26,7 +26,6 @@
 - [Python Programming](https://user-images.githubusercontent.com/50623941/135367000-9572ecf6-5f82-4cb7-96f3-07347bf1a30f.png) (with honors) @ Stepic
 - [Python: Basics and Applications](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)(with honors) @ Stepic
 - [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/VCWCANNSDVVJ) @ Coursera
-
 #### DevOps
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png) (with honors) @ Stepik
