@@ -18,7 +18,7 @@
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian
 - [LIBFT](https://github.com/dbadeev/LIBFT-project) (C language) - Re-writable library of C standard functions
 - FILLIT (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's 'dancing links' algorithm.
-- PUSH SWAP (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks'  algorithm.- 
+- [PUSH SWAP](https://github.com/dbadeev/PUSH-SWAP) (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks'  algorithm.- 
 - LEM-IN (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
 
 ### Certifications 📜
