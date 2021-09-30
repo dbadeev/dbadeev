@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/[dbadeev])
+![](https://komarev.com/ghpvc/?username=dbadeev)
+
 
 ### Skills 🛠️
 - **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://stepik.org/cert/309497)
