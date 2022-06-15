@@ -15,6 +15,7 @@
 
 ### Projects 🐾
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
+- [DSLR (Data Science X Logistic Regression)](https://) (Python) - Goals: Learn how to read a dataset, to visualize it in different ways, to select and clean unnecessary information from your data; Implement one-vs-all logistic regression w/o special Libraries using that will solve classification problem.
 - [FT_LINEAR_REGRESSION](https://) (Python) - First of the projects in the machine learning area at 21 network. Objective is to create a linear regression function in the language of choise (python3) w/o special Libraries using, train the model on the given dataset, save generated indexes and use them to predict car price depending on it's mileage.
 - [LIBFT](https://github.com/dbadeev/LIBFT-project) (C language) - Re-writable library of C standard functions
 - [FILLIT](https://user-images.githubusercontent.com/50623941/135349222-02645e30-f4a9-4605-bfe0-0c0fa33fb2a2.png) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's 'dancing links' algorithm.
