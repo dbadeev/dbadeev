@@ -9,9 +9,10 @@
 
 
 ### Education 🎓
-- **Mathematician, Specialist,** Faculty of Mechanics and Mathematics, Lomonosov Moscow State University(1980-1985)
+- **Mathematician, Specialist, Diploma of Completion Faculty of Mechanics and Mathematics, Lomonosov Moscow State University** (1980-1985)
 - **Curriculum of Architect In Digital Technologies, Certificate of Completion 42** with the final level: **Level 21**,  Association 42 (2019-2023)
--  **Curriculum, Certificate of Completion 21, Senior Degree** with the final level: **21.42**, 21 School SBER (2019-2023)
+-  **Curriculum, Certificate of Completion 21, Senior Degree** with the final level: **Level 21.42**, 21 School SBER (2019-2023)
+-  **Curriculum of Project Management in IT, Diploma of professional retraining**, Skillfactory (2022-2023)
 
 
 ### Projects 🐾
