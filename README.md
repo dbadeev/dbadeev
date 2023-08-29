@@ -2,15 +2,15 @@
 
 
 ### Skills 🛠️
-- **Languages:** [C](https://user-images.githubusercontent.com/50623941/135349015-b3809664-fa24-4062-a7c8-b3dec73fccee.png), [Python](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)
+- **Languages:** Python, C
 - **DS:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow
-- **Big Data:**  &nbsp;[Hadoop](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png)
-- **DevOps:**    [Git](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF), [Docker](https://user-images.githubusercontent.com/50623941/135348519-b90f38b7-2834-48e8-bbc4-5a46b11ac7e7.png)
+- **Big Data:**  &nbsp;Hadoop
+- **DevOps:**    &nbsp;Docker, Git
 
 
 ### Education 🎓
 - **Mathematician, Specialist,** [Faculty of Mechanics and Mathematics](https://user-images.githubusercontent.com/50623941/135361342-7de2cac0-4051-4583-8438-319c6b25b3c6.png), [Lomonosov Moscow State University](https://user-images.githubusercontent.com/50623941/135361248-c7fe8b76-33b3-4997-af33-27bb11eb0e3a.png) ([1980](https://user-images.githubusercontent.com/50623941/135360452-8b797253-963a-42e5-8557-e56c7cb72585.png)-[1985](https://user-images.githubusercontent.com/50623941/135360596-f9a8ae14-51dc-4670-8e38-e95a8225634b.png))
-- **Student,** [21 school](https://user-images.githubusercontent.com/50623941/135361619-95b00089-2810-4831-9dea-2d050edec0f0.png) ([École 42](https://user-images.githubusercontent.com/50623941/135362129-4c5335a3-7f87-476a-855c-92241d3d0149.png)) [SBER](https://user-images.githubusercontent.com/50623941/135361971-08efbc36-d297-452d-8bbb-1c0051afb00b.png) (2019-present)
+- **Student,** [21 school](https://user-images.githubusercontent.com/50623941/135361619-95b00089-2810-4831-9dea-2d050edec0f0.png) ([École 42](https://user-images.githubusercontent.com/50623941/135362129-4c5335a3-7f87-476a-855c-92241d3d0149.png)) [SBER](https://user-images.githubusercontent.com/50623941/135361971-08efbc36-d297-452d-8bbb-1c0051afb00b.png) (2019-2023)
 
 
 ### Projects 🐾
@@ -18,7 +18,7 @@
 - [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
 - [DSLR (Data Science X Logistic Regression)](https://) (Python) - Goals: Learn how to read a dataset, to visualize it in different ways, to select and clean unnecessary information from your data; Implement one-vs-all logistic regression w/o special Libraries using that will solve classification problem.
 - [FT_LINEAR_REGRESSION](https://) (Python) - First of the projects in the machine learning area at 21 network. Objective is to create a linear regression function in the language of choise (python3) w/o special Libraries using, train the model on the given dataset, save generated indexes and use them to predict car price depending on it's mileage.
-- [LIBFT](https://github.com/dbadeev/LIBFT) (C language) - Re-writable library of C standard functions
+- [LIBFT](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
 - [FILLIT](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
 - [PUSH SWAP](https://github.com/dbadeev/PUSH-SWAP) (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks' algorithm. 
 - [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
