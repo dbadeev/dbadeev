@@ -9,8 +9,9 @@
 
 
 ### Education 🎓
-- **Mathematician, Specialist,** [Faculty of Mechanics and Mathematics](https://user-images.githubusercontent.com/50623941/135361342-7de2cac0-4051-4583-8438-319c6b25b3c6.png), [Lomonosov Moscow State University](https://user-images.githubusercontent.com/50623941/135361248-c7fe8b76-33b3-4997-af33-27bb11eb0e3a.png) ([1980](https://user-images.githubusercontent.com/50623941/135360452-8b797253-963a-42e5-8557-e56c7cb72585.png)-[1985](https://user-images.githubusercontent.com/50623941/135360596-f9a8ae14-51dc-4670-8e38-e95a8225634b.png))
-- **Student,** [21 school](https://user-images.githubusercontent.com/50623941/135361619-95b00089-2810-4831-9dea-2d050edec0f0.png) ([École 42](https://user-images.githubusercontent.com/50623941/135362129-4c5335a3-7f87-476a-855c-92241d3d0149.png)) [SBER](https://user-images.githubusercontent.com/50623941/135361971-08efbc36-d297-452d-8bbb-1c0051afb00b.png) (2019-2023)
+- **Mathematician, Specialist,** Faculty of Mechanics and Mathematics, Lomonosov Moscow State University(1980-1985)
+- **Curriculum of Architect In Digital Technologies, Certificate of Completion 42** with the final level: **Level 21**,  Association 42 (2019-2023)
+-  **Curriculum, Certificate of Completion 21, Senior Degree** with the final level: **21.42**, 21 School SBER (2019-2023)
 
 
 ### Projects 🐾
