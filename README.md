@@ -6,7 +6,7 @@
 
 ### Skills 🛠️
 - **Languages:** Python, C
-- **DS:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow, PySpark
+- **DS:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Keras, Tensorflow, PySpark
 - **Big Data:**  &nbsp;Hadoop
 - **DevOps:**    &nbsp;Docker, Git
 
@@ -35,9 +35,9 @@
   
 #### C
 - [_LIBFT_](https://github.com/dbadeev/LIBFT) - Rewritten library of C standard functions
-- [_Fillit_](https://github.com/dbadeev/fillit) - Algorithmic project: Problem of finding a square of the minimum size, in which all the issued tetrimines can be placed without intersections; solution based on Knuth's Algorithm X using 'dancing links'
-- _Push swap_ - Algorithmic project: Sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions; solution based on  original 'chunks' algorithm
-- [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
+- [_Fillit_](https://github.com/dbadeev/fillit) - Algorithmic project: Problem of finding a square of the minimum size, in which all the issued tetrimines can be placed without intersections; the solution is based on Knuth's Algorithm X using 'dancing links'
+- _Push swap_ - Algorithmic project: Sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions; the solution is based on  original 'chunks' algorithm
+- _Lem-in_ - Algorithmic project: The goal is to find the quickest way to get N ants across the farm (finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph); the solution is based on Suurballe's algorithm
 
 
 
