@@ -39,7 +39,9 @@
 - _Push swap_ - Algorithmic project: Sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions; the solution is based on  original 'chunks' algorithm
 - _Lem-in_ - Algorithmic project: The goal is to find the quickest way to get N ants across the farm (finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph); the solution is based on Suurballe's algorithm
 
-
+#### DevOps
+- _Init_ - Introduction to System and Network Administration
+- _Roger skyline 1_ - Virtual Machine installation; the basics about system and network administration;  services used on a server machine
 
 ### Certifications 📜
 #### DS
