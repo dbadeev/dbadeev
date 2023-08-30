@@ -29,7 +29,7 @@
 - _Uber_ - Taxi demand forecast based on time series analysis: stationarity, exponential smoothing, SARIMA
 - _Amazon_ - Amazon’s recommender system – “Customers Who Bought This Item Also Bought” using Apache Spark and its 3rd-party libraries
 - [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling) - Single and cross-genre ender identification in Russian language
-- 
+  
 #### C
 - [_LIBFT_](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
 - [_Fillit_](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
