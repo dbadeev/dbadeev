@@ -40,7 +40,7 @@
 - _Push swap_ - Algorithmic project: Sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions; the solution is based on  original 'chunks' algorithm
 - _Lem-in_ - Algorithmic project: The goal is to find the quickest way to get N ants across the farm (finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph); the solution is based on Suurballe's algorithm
 
-#### DevOps
+#### DevOps <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/bd2e8721-5df2-4d56-9e6f-f293d30ad135"/>
 - _Init_ - Introduction to System and Network Administration
 - _Roger skyline 1_ - Virtual Machine installation; the basics about system and network administration;  services used on a server machine
 - _Docker 1_ - The basics for understanding the idea of containerization of services using docker and docker-machine
