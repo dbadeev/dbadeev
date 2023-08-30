@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dbadeev)
 
-#### CV
+#### CV <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/36a4b28a-e33b-4124-90b1-7a1451d46f65"/>
 - Curriculum Vitae in Russian
 - Curriculum Vitae in English
 
@@ -19,9 +19,9 @@
 
 
 ### Projects 🐾
-#### Python
+#### Python <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/5d866716-5763-4478-a0f9-842eb6930bef" />
 - _Computor 1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
-#### &nbsp;&nbsp;&nbsp;&nbsp; DS
+#### &nbsp;&nbsp;&nbsp;&nbsp; DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
 - _Ft Linear Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
 - _Datascience X Logistic Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent 
 - _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries
@@ -34,7 +34,7 @@
 - _Amazon_ - Amazon’s recommender system – “Customers Who Bought This Item Also Bought” using Apache Spark and its 3rd-party libraries
 - [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling) - Single and cross-genre ender identification in Russian language
   
-#### C
+#### C <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/61c15e72-b2c0-488d-8427-8ede18670b80" />
 - [_LIBFT_](https://github.com/dbadeev/LIBFT) - Rewritten library of C standard functions
 - [_Fillit_](https://github.com/dbadeev/fillit) - Algorithmic project: Problem of finding a square of the minimum size, in which all the issued tetrimines can be placed without intersections; the solution is based on Knuth's Algorithm X using 'dancing links'
 - _Push swap_ - Algorithmic project: Sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions; the solution is based on  original 'chunks' algorithm
