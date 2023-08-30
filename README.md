@@ -42,6 +42,7 @@
 #### DevOps
 - _Init_ - Introduction to System and Network Administration
 - _Roger skyline 1_ - Virtual Machine installation; the basics about system and network administration;  services used on a server machine
+- _Docker 1_ - The basics for understanding the idea of containerization of services using docker and docker-machine
 
 ### Certifications 📜
 #### DS
