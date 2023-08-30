@@ -26,7 +26,8 @@
 - _Datascience X Logistic Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent 
 - _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries
 - _Tweets_ - Sentiment analysis of tweets
-- _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank.
+- _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank
+- _Myspotify_ - Application of different type algorithms (non-personalized, content-based and collaborative filtering)  used for music recommendations 
 - _City Life_ - Geospatial analytics based on Taxi Routes and Neighborhoods: GeoPandas, clustering, making maps
 - _Understanding customer_ - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT)
 - _Uber_ - Taxi demand forecast based on time series analysis: stationarity, exponential smoothing, SARIMA
