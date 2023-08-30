@@ -26,6 +26,7 @@
 - _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank.
 - _City Life_ - Geospatial analytics based on Taxi Routes and Neighborhoods: GeoPandas, clustering, making maps
 - _Understanding customer_ - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT)
+- _Uber_ - Taxi demand forecast based on time series analysis: stationarity, exponential smoothing, SARIMA
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - 
 #### C
