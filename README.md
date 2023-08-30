@@ -18,18 +18,17 @@
 ### Projects 🐾
 #### Python
 - COMPUTOR_1 -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
-#### &nbsp;&nbsp; DS
-- FT_LINEAR_REGRESSION - Program that predicts the price of a car by using a linear function train with a gradient descent algorithm and plots the data into a graph to see their repartition.
-- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
+#### &nbsp;&nbsp;&nbsp;&nbsp; DS
+- FT_LINEAR_REGRESSION - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
+- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
-- [DSLR (Data Science X Logistic Regression)](https://) (Python) - Goals: Learn how to read a dataset, to visualize it in different ways, to select and clean unnecessary information from your data; Implement one-vs-all logistic regression w/o special Libraries using that will solve classification problem.
-- [FT_LINEAR_REGRESSION](https://) (Python) - First of the projects in the machine learning area at 21 network. Objective is to create a linear regression function in the language of choise (python3) w/o special Libraries using, train the model on the given dataset, save generated indexes and use them to predict car price depending on it's mileage.
+#### C
 - [LIBFT](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
 - [FILLIT](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
 - [PUSH SWAP](https://github.com/dbadeev/PUSH-SWAP) (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks' algorithm. 
 - [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
-- [COMPUTOR v1](https://) (Python) - This project aims to make you code a simple equation solving program. It will take polynomial equations into account. These equations will only require exponents. No complex function. The program will have to display its solution(s).
+
 
 
 ### Certifications 📜
