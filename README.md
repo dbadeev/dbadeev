@@ -31,8 +31,8 @@
 - [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling) - Single and cross-genre ender identification in Russian language
   
 #### C
-- [_LIBFT_](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
-- [_Fillit_](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
+- [_LIBFT_](https://github.com/dbadeev/LIBFT) - Rewritten library of C standard functions
+- [_Fillit_](https://github.com/dbadeev/fillit) - The problem of finding a square of the minimum size, in which all the issued tetrimines can be placed without intersections; solution based on Knuth's Algorithm X using 'dancing links'
 - [PUSH SWAP](https://github.com/dbadeev/PUSH-SWAP) (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks' algorithm. 
 - [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
 
