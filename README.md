@@ -45,17 +45,17 @@
 - _Roger skyline 1_ - Virtual Machine installation; the basics about system and network administration;  services used on a server machine
 - _Docker 1_ - The basics for understanding the idea of containerization of services using docker and docker-machine
 
-#### Security
+#### Security <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/f08a3f21-9ea0-406b-acd0-be903941a76d"/>
 - _Rainfall_ - An introduction to the elf-like binary exploitation  in i386 system
 - _Snow Crash_ - An introduction to cyber security
 - _Over Ride_ - Next level tasks concerning the elf-like binary exploitation  in i386 system after _Rainfall_ project 
 
 ### Certifications 📜
-#### DS
+#### DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
 - [Python Programming](https://user-images.githubusercontent.com/50623941/135367000-9572ecf6-5f82-4cb7-96f3-07347bf1a30f.png) (with honors) @ Stepic
 - [Python: Basics and Applications](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)(with honors) @ Stepic
 - [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/VCWCANNSDVVJ) @ Coursera
-#### DevOps
+#### DevOps <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/bd2e8721-5df2-4d56-9e6f-f293d30ad135"/>
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/TMHPP3PY5SLF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png) (with honors) @ Stepik
 
