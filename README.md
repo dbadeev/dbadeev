@@ -19,12 +19,13 @@
 #### Python
 - _Computor 1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS
-- _Ft Linear Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
-- _Datascience X Logistic Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
-- _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries.
-- _Tweets_ - Sentiment analysis of tweets.
+- _Ft Linear Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
+- _Datascience X Logistic Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent 
+- _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries
+- _Tweets_ - Sentiment analysis of tweets
 - _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank.
 - _City Life_ - Geospatial analytics based on Taxi Routes and Neighborhoods: GeoPandas, clustering, making maps
+- _Understanding customer_ - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT)
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - 
 #### C
