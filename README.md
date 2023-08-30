@@ -20,7 +20,8 @@
 - COMPUTOR_1 -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS
 - FT_LINEAR_REGRESSION - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
-- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
+- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. implementation w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
+- MULTILAYER PERCEPTRON - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries. 
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
 #### C
