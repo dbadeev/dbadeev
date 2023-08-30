@@ -20,10 +20,12 @@
 - _Computor_1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS
 - _Ft_Linear_Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
-- _Datascience_X_Logistic_Regression_  - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. implementation w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
-- _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries. 
+- _Datascience_X_Logistic_Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
+- _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries.
+- _Tweets_ - Sentiment analysis of tweets.
+- _Churn_prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank.
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
-- [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
+- 
 #### C
 - [_LIBFT_](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
 - [_Fillit_](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
