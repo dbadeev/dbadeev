@@ -45,6 +45,11 @@
 - _Roger skyline 1_ - Virtual Machine installation; the basics about system and network administration;  services used on a server machine
 - _Docker 1_ - The basics for understanding the idea of containerization of services using docker and docker-machine
 
+#### Security
+- _Rainfall_ - An introduction to the elf-like binary exploitation  in i386 system
+- _Snow Crash_ - An introduction to cyber security
+- _Over Ride_ - Next level tasks concerning the elf-like binary exploitation  in i386 system after _Rainfall_ project 
+
 ### Certifications 📜
 #### DS
 - [Python Programming](https://user-images.githubusercontent.com/50623941/135367000-9572ecf6-5f82-4cb7-96f3-07347bf1a30f.png) (with honors) @ Stepic
