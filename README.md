@@ -17,16 +17,16 @@
 
 ### Projects 🐾
 #### Python
-- COMPUTOR_1 -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
+- _Computor_1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS
-- FT_LINEAR_REGRESSION - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
-- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. implementation w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
-- MULTILAYER PERCEPTRON - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries. 
+- _Ft_Linear_Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph.
+- _Datascience_X_Logistic_Regression_  - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all w/o special Libraries. implementation w/o special Libraries. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
+- _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries. 
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
 #### C
-- [LIBFT](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
-- [FILLIT](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
+- [_LIBFT_](https://github.com/dbadeev/LIBFT) (C language) - Rewritten library of C standard functions
+- [_Fillit_](https://github.com/dbadeev/fillit) (C language, group project) - Search for a square of the minimum size that can accommodate all issued tetramines  without intersections. Based on Knuth's Algorithm X using 'dancing links'.
 - [PUSH SWAP](https://github.com/dbadeev/PUSH-SWAP) (C language) - Sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. Based on  original 'chunks' algorithm. 
 - [LEM-IN](https://user-images.githubusercontent.com/50623941/135349368-7c5a1bb1-de58-4571-b185-3f0fa40d59ab.png) (C language, group project) - Finding the minimum node-disjoint paths and maximum flow from a source to destination in a nondirected graph. Based on Suurballe algorithm.
 
