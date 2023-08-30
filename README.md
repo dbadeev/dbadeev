@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=dbadeev)
 
+#### CV
+- Curriculum Vitae in Russian
+- Curriculum Vitae in English
 
 ### Skills 🛠️
 - **Languages:** Python, C
