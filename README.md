@@ -16,6 +16,11 @@
 
 
 ### Projects 🐾
+#### Python
+- COMPUTOR_1 -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
+#### &nbsp;&nbsp; DS
+- FT_LINEAR_REGRESSION - Program that predicts the price of a car by using a linear function train with a gradient descent algorithm and plots the data into a graph to see their repartition.
+- DATASCIENCE X LOGISTIC REGRESSION - Statistical data analysis; data visualization using different methods; multi-classifier model implementation using a logistic regression one-vs-all. Implementation: batch gradient descent, mini-batch gradient descent, stochastic gradient descent. 
 - [METHODS OF CORPUS RESEARCH OF SOCIOLINGUISTIC VARIABILITY](https://github.com/dbadeev/gender_profiling) [on the example of the language of social networks] (Python) - Single and Cross-genre Gender Identification in Russian language
 - [TWEETS](https://) (Python) - Intro to Natural Language Processing. Sentiment Analysis.
 - [DSLR (Data Science X Logistic Regression)](https://) (Python) - Goals: Learn how to read a dataset, to visualize it in different ways, to select and clean unnecessary information from your data; Implement one-vs-all logistic regression w/o special Libraries using that will solve classification problem.
