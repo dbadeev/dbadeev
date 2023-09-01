@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=dbadeev)
 
 #### CV <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/36a4b28a-e33b-4124-90b1-7a1451d46f65"/>
-- [Curriculum Vitae in Russian](https://github.com/dbadeev/dbadeev/blob/main/Dmitry_Badeev_python_ds_nlp_cv_rus.pdf)
+- [Curriculum Vitae in Russian](https://github.com/dbadeev/dbadeev/blob/main/Dmitry_Badeev_ds_nlp_llm_cv_rus.pdf))
 - [Curriculum Vitae in English](https://github.com/dbadeev/dbadeev/blob/main/Dmitry_Badeev_ds_nlp_llm_cv_eng.pdf)
 
 ### Skills 🛠️
