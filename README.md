@@ -22,7 +22,7 @@
 #### Python <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/5d866716-5763-4478-a0f9-842eb6930bef" />
 - _Computor 1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
-- _Ft Linear Regression_ - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
+- [_Ft Linear Regression_](https://github.com/dbadeev/ft_linear_regression) - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
 - _Datascience X Logistic Regression_  - Statistical data analysis; data visualization using different methods; implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent 
 - _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries
 - _Tweets_ - Sentiment analysis of tweets
