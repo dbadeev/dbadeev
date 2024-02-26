@@ -32,7 +32,7 @@
 - _Understanding customer_ - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT)
 - _Uber_ - Taxi demand forecast based on time series analysis: stationarity, exponential smoothing, SARIMA
 - _Amazon_ - Amazon’s recommender system – “Customers Who Bought This Item Also Bought” using Apache Spark and its 3rd-party libraries
-- _Gender Profiling in Social Network_ - Gender profilng in single and cross genre tweets (Russian language)
+- [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling/tree/main) - Gender profilng in single and cross genre tweets (Russian language)
 - _Summarization of Habr articles_ - Summarization of Habr articles using YaGPT
   
 #### C <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/61c15e72-b2c0-488d-8427-8ede18670b80" />
