@@ -56,6 +56,7 @@
 - [Python Programming](https://user-images.githubusercontent.com/50623941/135367000-9572ecf6-5f82-4cb7-96f3-07347bf1a30f.png) (with honors) @ Stepic
 - [Python: Basics and Applications](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)(with honors) @ Stepic
 - [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/VCWCANNSDVVJ) @ Coursera
+- [GPT Week] (https://lyceum.s3.yandex.net/gpt_certs/35_%D0%91%D0%B0%D0%B4%D0%B5%D0%B5%D0%B2%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87.pdf?mindbox-message-key=-4323455636159266816&mindbox-click-id=d6495783-e50c-422c-a005-a9a992d55396&utm_source=mindbox&utm_medium=email&utm_campaign=gptweek23&utm_content=post2012) @ Yandex
 #### DevOps <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/bd2e8721-5df2-4d56-9e6f-f293d30ad135"/>
 - [Introduction to Git and GitHub](https://coursera.org/share/d04b4e68d7c41a734b6e6dbc9d1087a1) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://user-images.githubusercontent.com/50623941/135366520-84a70b45-6dbf-4bbf-bfef-05b4e6a71b4f.png) (with honors) @ Stepik
