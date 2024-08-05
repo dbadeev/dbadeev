@@ -25,7 +25,7 @@
 - [_Ft Linear Regression_](https://github.com/dbadeev/ft_linear_regression) - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
 - [_Datascience X Logistic Regression_](https://github.com/dbadeev/dslr)  - Implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; statistical data analysis; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent; data visualization using different methods 
 - _Multilayer Perceptron_ - Implementation of Multilayer Perceptron model with two hidden layers w/o special Libraries
-- _Tweets_ - Sentiment analysis of tweets
+- [_Tweets_](https://github.com/dbadeev/tweets) - Sentiment analysis of tweets
 - _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank
 - _Myspotify_ - Application of different type algorithms (non-personalized, content-based and collaborative filtering)  used for music recommendations 
 - _City Life_ - Geospatial analytics based on Taxi Routes and Neighborhoods: GeoPandas, clustering, making maps
