@@ -29,10 +29,10 @@
 - _Churn prediction_ - Implementation of various models (Naive, RandomForest, Keras, TensorFlow) using NumPy matrix calculations to predict which customers are going to stop being customers of the bank
 - _Myspotify_ - Application of different type algorithms (non-personalized, content-based and collaborative filtering)  used for music recommendations 
 - _City Life_ - Geospatial analytics based on Taxi Routes and Neighborhoods: GeoPandas, clustering, making maps
-- _Understanding customer_ - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT)
+- [_Understanding customer_](https://github.com/dbadeev/u_c) - Intent classification based on Deep Learning algorithms applied to NLP tasks (RNN, LSTM, BERT, CNN)
 - _Uber_ - Taxi demand forecast based on time series analysis: stationarity, exponential smoothing, SARIMA
 - _Amazon_ - Amazon’s recommender system – “Customers Who Bought This Item Also Bought” using Apache Spark and its 3rd-party libraries
-- [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling/tree/main) - Gender profilng in single and cross genre tweets (Russian language)
+- [_Gender Profiling in Social Network_](https://github.com/dbadeev/gender_profiling) - Gender profilng in single and cross genre tweets (Russian language)
 - _Summarization of Habr articles_ - Summarization of Habr articles using YaGPT
   
 #### C <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/61c15e72-b2c0-488d-8427-8ede18670b80" />
