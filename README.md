@@ -66,6 +66,12 @@ analytical queries with maximum accuracy and minimal hallucination.
 
 ### Certifications 📜
 #### DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
+- [Цифровой марафон](https://github.com/user-attachments/assets/3e9dcf39-bcd0-470e-84a6-87ef0f1d2162) @SBER (2025)
+- [HF Agents course. Fundamentals](https://github.com/user-attachments/assets/26415db3-4a03-40aa-bdf3-68f99f2254f8) @HuggingFace (2025)
+- [HF Agents course (of Excellence)](https://github.com/user-attachments/assets/e443b89a-70ff-4768-bef0-578b7b6d6917) @HuggingFace (2025)
+- [HF MCP course. Fundamentals](https://github.com/user-attachments/assets/a197ad02-9656-42bf-b748-a69df2758ea1) @HuggingFace (2025)
+- [HF MCP course (for Production Automation)](https://github.com/user-attachments/assets/681ddf02-ebc3-4d0d-b2e7-0b0d71e53e80) @HuggingFace (2025)
+- [5-day Gen AI intensive](https://github.com/user-attachments/assets/9d473f2b-aa2c-4be3-97e7-8bc559a1a136) @Google (2025)
 - [Python Programming](https://user-images.githubusercontent.com/50623941/135367000-9572ecf6-5f82-4cb7-96f3-07347bf1a30f.png) (with honors) @ stepik
 - [Python: Basics and Applications](https://user-images.githubusercontent.com/50623941/135366951-0ee11ac6-1636-46f9-9461-f3c35484ad88.png)(with honors) @ stepik
 - [Mathematics and Python for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/VCWCANNSDVVJ) @ Coursera
