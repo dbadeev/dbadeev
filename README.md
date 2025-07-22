@@ -18,10 +18,10 @@
 
 
 ### Education 🎓
-- **Mathematician, Specialist, Diploma of Completion** [Faculty of Mechanics and Mathematics, Lomonosov Moscow State University](https://www.msu.ru/en/info/struct/depts/mechmath.html) (1980-1985)
-- **Curriculum of Architect In Digital Technologies, Certificate of Completion 42** with the final level: **Level 21**,  [Association 42](https://42.fr/en/homepage/) (2019-2023)
--  **Curriculum, Certificate of Completion 21, Senior Degree** with the final level: **Level 21.42**, [21 School SBER](https://21-school.ru/) (2019-2023)
--  **Curriculum of Project Management in IT, Diploma of professional retraining**, [Skillfactory](https://skillfactory.ru/project-manager) (2022-2023)
+- **Mathematician, Specialist, Diploma of Completion** [Faculty of Mechanics and Mathematics, Lomonosov Moscow State University](https://www.msu.ru/en/info/struct/depts/mechmath.html)
+- **Curriculum of Architect In Digital Technologies, Certificate of Completion 42** with the final level: **Level 21**,  [Association 42](https://42.fr/en/homepage/)
+-  **Curriculum, Certificate of Completion 21, Senior Degree** with the final level: **Level 21.42**, [21 School SBER](https://21-school.ru/)
+-  **Curriculum of Project Management in IT, Diploma of professional retraining**, [Skillfactory](https://skillfactory.ru/project-manager)
 
 
 ### Projects 🐾
