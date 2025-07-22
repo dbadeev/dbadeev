@@ -6,7 +6,7 @@
 
 ### Skills 🛠️
 - **Languages:** Python, C
-- **Machine Learning:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch, TensorFlow, Scikit-learn, Keras, Matplotlib
+- **Machine Learning:**   &nbsp;PyTorch, TensorFlow, Scikit-learn, Keras, Matplotlib
 - **Data Engineering:**  &nbsp;Pandas, NumPy, SciPy, PySpark, Hadoop, FAISS, Jupyter Notebook
 - **NLP / LLM:** &nbsp;Transformers (HF), NLTK, SpaCy, Gensim, smolAgents, LangChain, LangGraph, MCP, RAG, Prompt Engineering
 - **API:**  &nbsp;Gradio
