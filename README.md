@@ -6,9 +6,15 @@
 
 ### Skills 🛠️
 - **Languages:** Python, C
-- **DS:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Keras, Tensorflow, PySpark
-- **Big Data:**  &nbsp;Hadoop
+- **Machine Learning:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch, TensorFlow, Scikit-learn, Keras, Matplotlib
+- **Data Engineering:**  &nbsp;Pandas, NumPy, SciPy, PySpark, Hadoop, FAISS, Jupyter Notebook
+- **NLP / LLM:** &nbsp;Transformers (HF), NLTK, SpaCy, Gensim, smolAgents, LangChain, LangGraph, MCP, RAG, Prompt Engineering
+- **API:**  &nbsp;Gradio
 - **DevOps:**    &nbsp;Docker, Git
+- **Project Management:**  &nbsp;Scrum, Agile, Jira
+
+- **Web:**  &nbsp;HTML, CSS, WordPress
+- **EdTech:**  &nbsp;LMS, Instructional Design, Gamification, Project-based Learning
 
 
 ### Education 🎓
