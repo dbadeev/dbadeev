@@ -33,6 +33,7 @@ agent processing, AI-generated explainable recommendations.
 - _Company Annual Report RAG System_ -  AI system extracts and vectorizes text from PDF reports, answers
 analytical queries with maximum accuracy and minimal hallucination.
 - _Automation of Complex GAIA Benchmark Tasks_ - Intent Functional LLM-based agent decomposes complex assignments into steps and executes multitask analysis with external tool integration.
+- _Interactive Personalized Fairytale Generator_ - Story generation for children based on fairy tale morphology, entity recognition, prompt engineering, and user-driven adaptation
 - _Summarization of Habr Articles Using YaGPT API_
 - [_Ft Linear Regression_](https://github.com/dbadeev/ft_linear_regression) - Model implementation that predicts the price of a car depending on it's mileage using a linear regression function trained with a gradient descent algorithm w/o special Libraries and plots the data into a graph
 - [_Datascience X Logistic Regression_](https://github.com/dbadeev/dslr)  - Implementation of multi-classifier model  using a logistic regression one-vs-all w/o special Libraries; statistical data analysis; implementation of batch gradient descent, mini-batch gradient descent, stochastic gradient descent; data visualization using different methods 
