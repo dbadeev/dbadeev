@@ -28,7 +28,7 @@
 #### Python <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/5d866716-5763-4478-a0f9-842eb6930bef" />
 - _Computor 1_ -  Program that solves a polynomial second or lower degree equation and plots the function (including the complex roots of the equation).
 #### &nbsp;&nbsp;&nbsp;&nbsp; DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
-- _Multi-agent Film Plot Search System_ - API for searching films by semantic and narrative features, multi-agent processing, AI-generated explainable recommendations.
+- [_Multi-agent Film Plot Search System_](https://github.com/dbadeev/movie_plot_search_engine) - API for searching films by semantic and narrative features, multi-agent processing, AI-generated explainable recommendations.
 - _Company Annual Report RAG System_ -  AI system extracts and vectorizes text from PDF reports, answers
 analytical queries with maximum accuracy and minimal hallucination.
 - _Automation of Complex GAIA Benchmark Tasks_ - Intent Functional LLM-based agent decomposes complex assignments into steps and executes multitask analysis with external tool integration.
