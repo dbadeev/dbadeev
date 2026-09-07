@@ -64,6 +64,7 @@ analytical queries with maximum accuracy and minimal hallucination.
 
 ### Certifications 📜
 #### DS <img height="16" width="16" src="https://github.com/dbadeev/dbadeev/assets/50623941/3e4a37e1-e96e-4c0d-96f4-2ae851f09fc6" />
+- [AI Agents Security Week intensive]([https://github.com/user-attachments/assets/b385bbfc-440f-4c3a-9b1e-b26c455f7f86](https://education.yandex.ru/profile/docs?id=29d90ebe-d033-4065-842e-8f2bd4790caf))  @School of Data Analysis (Yandex) (2026)
 - [Agents Week intensive](https://github.com/user-attachments/assets/b385bbfc-440f-4c3a-9b1e-b26c455f7f86)  @School of Data Analysis (Yandex) (2026)
 - [LLM Scaling Week intensive](https://github.com/user-attachments/assets/37d2eb09-60c5-4614-b65a-47d4ab23652d) @School of Data Analysis (Yandex) (2025)
 - [A/B Week intensive](https://lyceum.s3.yandex.net/2025/ab_week/regular/%D0%91%D0%B0%D0%B4%D0%B5%D0%B5%D0%B2_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9.pdf?m-message-key-id=-288230372997120000&m-message-click-id=258ac134-c51e-4fae-9f3d-4608a1fc5ba4&utm_source=mindbox&utm_medium=email&utm_campaign=abweek2025&utm_content=1508) @School of Data Analysis (Yandex) (2025)
